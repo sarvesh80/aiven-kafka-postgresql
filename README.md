@@ -48,5 +48,7 @@ Run producer app first.
 
 ### How to run coverage report
 coverage run -a Producer_SS.py
+
 coverage run -a Consumer_SS.py
+
 coverage report
