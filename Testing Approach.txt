@@ -1,0 +1,13 @@
+High Level approach for Automated test
+
+-> Produce the data to a topic say "SS_Topic" and validate the data
+
+e.g. Produce a record with "key":"email", "value":"sarvesh.sharmaa@outlook.com"
+
+
+-> Consume from the same topic i.e. "SS_Topic" and validate records
+
+Read or consume from the same topic and validate/assert the data
+
+We can do this by bringing up Kafka in dockerized containers or by pointing our tests to any 
+integrated test environment somewhere in Kubernetes-Kafka cluster or any other microservices infrastructure.  
