@@ -3,6 +3,7 @@
 Attribution:
 
 https://www.programcreek.com/python/example/98440/
+https://help.aiven.io/en/articles/489572-getting-started-with-aiven-kafka
 
 
 Kafka-PostgreSQL Produce/Consumer App
